@@ -1,7 +1,7 @@
 # Ahnaf Samin
 
 Data Analyst and Applied Machine Learning Engineer with experience in Python, data analysis, and NLP.  
-Currently working as a System Engineer at Huawei, with a focus on data-driven systems and applied analytics.
+Currently working as a System Engineer (Analytics) at Huawei, with a focus on data-driven systems and applied analytics.
 
 ---
 
