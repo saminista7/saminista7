@@ -40,7 +40,7 @@ https://github.com/saminista7/bangla-sarcasm-emoji-nlp
 ---
 
 ## Contact
-LinkedIn: https://linkedin.com/in/your-link-here  
+LinkedIn: https://linkedin.com/in/ahnafsamin7
 GitHub: https://github.com/saminista7
 
 
