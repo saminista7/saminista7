@@ -26,12 +26,12 @@ https://github.com/saminista7/bangla-sarcasm-emoji-nlp
 ---
 
 ## Technical Stack
-- **Languages:** Python, SQL  
+- **Languages:** Python, Java, SQL
 - **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
 - **Machine Learning & NLP:** Scikit-learn, PyTorch, TensorFlow, NLTK  
 - **Generative AI:** Retrieval-Augmented Generation (RAG), agent-based systems, LLM integration  
 - **Engineering & Workflow:** Git, GitHub, Jupyter, VS Code  
-- **Application Development:** API integration, model-backed services, scalable ML pipelines
+- **Application Development:** API integration, model-backed services, scalable ML pipelines, REST API
 
 ---
 
