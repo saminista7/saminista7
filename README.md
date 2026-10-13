@@ -1,47 +1,28 @@
-# Ahnaf Samin
+## Ahnaf Samin
 
-AI Engineer and Data Analyst with hands-on experience in applied machine learning, NLP, and data-driven systems.  
-Currently working as a System Engineer (Analytics) at Huawei, contributing to analytics-focused engineering workflows and data-backed decision systems.
+AI Engineer at D-Ready (UK), working remotely from Dhaka. I work on deep learning where the hard part is knowing whether the result is real.
 
----
+### Published
 
-## Areas of Focus
-- Applied machine learning and natural language processing
-- Data analysis, visualization, and insight generation (Python, Pandas, SQL, Power BI)
-- Language-specific NLP (Bangla text, informal and social media data)
-- Generative AI systems, including RAG-based pipelines and agentic workflows
-- Model integration, deployment, and scaling in real-world applications
-- Designing intelligent, data-aware user interfaces
+- **Hybrid deep learning for smart grid SCADA intrusion detection** — *Scientific Reports*, 2026. First author. CNN-Transformer-BiGRU with mutual-information feature selection and ADASYN; 0.94 ROC-AUC on the MSU power-system benchmark.
+  [doi:10.1038/s41598-026-70577-4](https://doi.org/10.1038/s41598-026-70577-4)
 
----
+- **PruDensNet: a parameter-efficient depthwise-separable CNN for MRI-based brain tumour classification** — *Frontiers in Medicine*, 2026. I conceived the architecture and led the study. 96.05% on four classes with 1.46M parameters, under a patient-level split rather than the slice-level splits the field usually reports.
+  [doi:10.3389/fmed.2026.1743015](https://doi.org/10.3389/fmed.2026.1743015)
 
-## Selected Work
+- **Emoji-Infused Bengali Sarcasm and Offensive Language Analysis** — *ICCIT 2025 (IEEE)*. First author, from my undergraduate thesis. mBERT reached 97.82% on sarcasm under K-fold.
+  [doi:10.1109/ICCIT68739.2025.11491479](https://doi.org/10.1109/ICCIT68739.2025.11491479)
+  Released alongside **AUST-Sarc**, a public 2,649-sentence emoji-aware Bangla corpus.
+  [doi:10.17632/7ryvn5gw88.2](https://doi.org/10.17632/7ryvn5gw88.2)
 
-### Bangla Sarcasm and Sentiment Detection with Emoji-Aware NLP
-An applied NLP project focused on improving sarcasm and sentiment classification in Bangla social media text by explicitly modeling emoji-based semantic signals.
+### Also
 
-Repository:  
-https://github.com/saminista7/bangla-sarcasm-emoji-nlp
+Previously at Huawei Bangladesh, where I led the PowerStar 2.0 rollout across Robi Axiata's national network to a measured 7.79% reduction in power consumption.
 
----
+Currently sole developer of a four-agent LLM platform: CV parsing, an AI tutor with rubric assessment, orchestration across OpenAI, Anthropic and Gemini models, and employer matching, with retrieval over vector databases and responsible-AI governance aligned to ISO/IEC 42001 and the EU AI Act.
 
-## Technical Stack
-- **Languages:** Python, Java, SQL
-- **Data & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-- **Machine Learning & NLP:** Scikit-learn, PyTorch, TensorFlow, NLTK  
-- **Generative AI:** Retrieval-Augmented Generation (RAG), agent-based systems, LLM integration  
-- **Engineering & Workflow:** Git, GitHub, Jupyter, VS Code  
-- **Application Development:** API integration, model-backed services, scalable ML pipelines, REST API
+### Links
 
----
-
-## Background
-- BSc in Computer Science and Engineering
-- Academic projects in NLP, medical image classification, and graphics-based systems
-- Industry experience in analytics and data-centric engineering at Huawei
-
----
-
-## Contact
-- LinkedIn: https://linkedin.com/in/ahnafsamin7  
-- GitHub: https://github.com/saminista7
+[Portfolio](https://ahnaf-samin.vercel.app/) ·
+[ORCID](https://orcid.org/0009-0004-1047-6632) ·
+[Google Scholar](https://scholar.google.com/citations?user=47pPaFUAAAAJ)
