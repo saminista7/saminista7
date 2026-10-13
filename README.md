@@ -19,14 +19,6 @@
   [doi:10.1109/ICCIT68739.2025.11491479](https://doi.org/10.1109/ICCIT68739.2025.11491479) ·
   [dataset](https://doi.org/10.17632/7ryvn5gw88.2)
 
-### Selected repositories
-
-**Research** — [bangla-sarcasm-emoji-nlp](https://github.com/saminista7/bangla-sarcasm-emoji-nlp) · [asr-evaluation-system](https://github.com/saminista7/asr-evaluation-system) (WER/CER for Bangla and English) · [enf-timestamp-forensics](https://github.com/saminista7/enf-timestamp-forensics) (power-grid frequency matching) · [autonomous_trading_agentic_ai_mvp](https://github.com/saminista7/autonomous_trading_agentic_ai_mvp)
-
-**Applied and client work** — [aust_canteen_website](https://github.com/saminista7/aust_canteen_website) (full-stack, live search, ordering, admin dashboard) · [e-ghatak-android-app](https://github.com/saminista7/e-ghatak-android-app) (Kotlin, Firebase, real-time) · [glowForge_churn_analysis_sql](https://github.com/saminista7/glowForge_churn_analysis_sql) · [academic-portfolio](https://github.com/saminista7/academic-portfolio) (Next.js, TypeScript)
-
-**University coursework** — [surviving-aust-game](https://github.com/saminista7/surviving-aust-game) (C++, OpenGL) · [my_event_planner_java](https://github.com/saminista7/my_event_planner_java) (Java, OOP)
-
 ### Stack
 
 **Languages** Python (primary) · TypeScript / JavaScript · SQL · Java · C / C++
